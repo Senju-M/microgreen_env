@@ -1,3 +1,3 @@
 # microgreen_env
-Automated environment for microgreen cultivation with Firebase connectivity.
+Automated environment for microgreen cultivation with Firebase connectivity. /n
 Change values where it is given as "change_me"
